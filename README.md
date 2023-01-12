@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **https://www.linkedin.com/in/naina-johri-83a2b6225/**
+- 📫 How to reach me *https://www.linkedin.com/in/naina-johri/**
 
 <img align ="right" alt="coding" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
