@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Perfect blend of technical and creative skills**
 
 
-- 📫 How to reach me *https://www.linkedin.com/in/naina-johri/**
+- 📫 How to reach me *johrinaina80@gmail.com**
 
 <img align ="right" alt="coding" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
