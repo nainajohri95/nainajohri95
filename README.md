@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Perfect blend of technical and creative skills**
 
 - 📫 How to reach me *johrinaina80@gmail.com*
-- 👨‍💻 All of my projects are available at [https://nainaportfolio.netlify.app/](https://nainaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at ([https://nainaportfolio.netlify.app/](https://nainaportfoliowebsite.netlify.app/))
 
 
 <img align ="right" alt="coding" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
