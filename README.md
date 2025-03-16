@@ -74,31 +74,19 @@
     <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
   </a>
 
-  <!-- Chakra UI -->
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2Fr9QJ0VFFrn7T%2Fchakra-ui&psig=AOvVaw3I7bEZmAYcp4FwVnR3aDPP&ust=1742237153877000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjs9Kahj4wDFQAAAAAdAAAAABAE)" alt="chakra-ui" width="40" height="40"/>
-  </a>
 
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 
-  <!-- AWS S3 -->
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws s3" width="40" height="40"/>
-  </a>
 
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 
-  <!-- Supabase -->
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" width="40" height="40"/>
-  </a>
-
+ 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -124,10 +112,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 
-  <!-- DSA (No official icon, using generic code icon) -->
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/3313/3313835.png" alt="dsa" width="40" height="40"/>
-  </a>
 </p>
 
 
