@@ -76,7 +76,7 @@
 
   <!-- Chakra UI -->
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg" alt="chakra-ui" width="40" height="40"/>
+    <img src="[https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2Fr9QJ0VFFrn7T%2Fchakra-ui&psig=AOvVaw3I7bEZmAYcp4FwVnR3aDPP&ust=1742237153877000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjs9Kahj4wDFQAAAAAdAAAAABAE)" alt="chakra-ui" width="40" height="40"/>
   </a>
 
   <!-- Java -->
